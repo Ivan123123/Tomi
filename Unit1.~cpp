@@ -1,6 +1,6 @@
-#include <iostream.h>
+#include <iostream>
 
-#include <fstream.h>
+#include <fstream>
 
 #include <conio.h>
 
@@ -8,7 +8,7 @@ using namespace std;
 
 int main() {
 
-int N, i=0, sum=0, dfb; //dfb - dlina faila v baitah
+int N, i, sum=0, dfb; //dfb - ????? ????? ? ??????
 
 ifstream fin("c:\\os\\bin.dat", ios::binary);
 
